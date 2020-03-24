@@ -1,0 +1,22 @@
+{
+  "name": "OBMyZJCategories",
+  "version": "0.1.0",
+  "summary": "A short description of OBMyZJCategories.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/200887744@qq.com/OBMyZJCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "200887744@qq.com": "200887744@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/200887744@qq.com/OBMyZJCategories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OBMyZJCategories/Classes/**/*"
+}

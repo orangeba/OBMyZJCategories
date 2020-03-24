@@ -1,0 +1,16 @@
+PODS:
+  - OBMyZJCategories (0.1.0)
+
+DEPENDENCIES:
+  - OBMyZJCategories (from `../`)
+
+EXTERNAL SOURCES:
+  OBMyZJCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OBMyZJCategories: 42e0a79363b9bfaaa8a9d038864d709549542500
+
+PODFILE CHECKSUM: 4fb3ff9b5c1b1ea9b3ea026cdf44e2a164482c27
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module OBMyZJCategories {
+  umbrella header "OBMyZJCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

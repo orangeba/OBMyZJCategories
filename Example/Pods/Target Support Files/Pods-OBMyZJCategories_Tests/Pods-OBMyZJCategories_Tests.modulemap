@@ -1,0 +1,6 @@
+framework module Pods_OBMyZJCategories_Tests {
+  umbrella header "Pods-OBMyZJCategories_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
