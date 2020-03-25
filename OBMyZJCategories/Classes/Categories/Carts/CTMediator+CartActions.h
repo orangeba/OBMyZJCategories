@@ -6,7 +6,7 @@
 //  Copyright © 2019 syh. All rights reserved.
 //
 
-#import "CTMediator.h"
+#import <CTMediator/CTMediator.h>
 
 @interface CTMediator (CartActions)
 
